@@ -25,5 +25,5 @@ textValue = 'You%20are%20receiving%20this%20email%20because%20you%20are%20opted%
 
 for set in email_ids:
     for id in set:
-        postEmailContent(id, "footerText2", "text", value, textValue, token)
+        # postEmailContent(id, "footerText2", "text", value, textValue, token)
         postApproveEmail(id, token)
