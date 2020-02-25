@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e81a3523-8c9b-4775-88fd-c6bc6a756212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Marketo_API_Create_Email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Marketo_API_Main_MSP_Email_Bulk_Feb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Email/Marketo_API_Main_Email_Variable_Update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Marketo_API_Main_Email_Create_Update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Marketo_API_Update_Email_Variable.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Marketo_API_Main_Email_Project_Feb.py" beforeDir="false" afterPath="$PROJECT_DIR$/Marketo_API_Main_Email_Footer_Bulk_Edit_Feb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Marketo_API_Approve_Email.py" beforeDir="false" afterPath="$PROJECT_DIR$/Email/Marketo_API_Approve_Email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Marketo_API_Browse_Folder_For_Emails.py" beforeDir="false" afterPath="$PROJECT_DIR$/Email/Marketo_API_Browse_Folder_For_Emails.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Marketo_API_Clone_Email.py" beforeDir="false" afterPath="$PROJECT_DIR$/Email/Marketo_API_Clone_Email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Marketo_API_Clone_Smart_List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Marketo_API_Clone_Smart_List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Marketo_API_Main_Email_Footer_Bulk_Edit_Feb.py" beforeDir="false" afterPath="$PROJECT_DIR$/Email/Marketo_API_Main_Email_Footer_Bulk_Edit_Feb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Marketo_API_Main_Form_Project_Feb.py" beforeDir="false" afterPath="$PROJECT_DIR$/Marketo_API_Main_Form_Project_Feb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Marketo_API_Main_MSP_Email_Bulk_Feb.py" beforeDir="false" afterPath="$PROJECT_DIR$/Email/Marketo_API_Main_MSP_Email_Bulk_Feb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Marketo_API_Update_Email_Content.py" beforeDir="false" afterPath="$PROJECT_DIR$/Email/Marketo_API_Update_Email_Content.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +41,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Email" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -48,7 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Marketo_API_Main_MSP_Email_Bulk_Feb">
+  <component name="RunManager" selected="Python.Marketo_API_Main_Email_Create_Update">
     <configuration name="Marketo API Clone Email Main" type="PythonConfigurationType" factoryName="Python">
       <module name="Marketo API" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Marketo API Get Auth" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Marketo_API_Main_Email_Create_Update" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Marketo API" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,38 +110,7 @@
           <ENTRY IS_ENABLED="true" PARSER="runconfig" />
         </ENTRIES>
       </EXTENSION>
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Marketo_API_Get_Auth.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Marketo_API_Browse_Folder_For_Emails" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Marketo API" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/Python/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="net.ashald.envfile">
-        <option name="IS_ENABLED" value="false" />
-        <option name="IS_SUBST" value="false" />
-        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
-        <option name="IS_IGNORE_MISSING_FILES" value="false" />
-        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
-        <ENTRIES>
-          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
-        </ENTRIES>
-      </EXTENSION>
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Marketo_API_Browse_Folder_For_Emails.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Marketo_API_Main_Email_Create_Update.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +141,38 @@
           <ENTRY IS_ENABLED="true" PARSER="runconfig" />
         </ENTRIES>
       </EXTENSION>
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Marketo_API_Main_Email_Footer_Bulk_Edit_Feb.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Email/Marketo_API_Main_Email_Footer_Bulk_Edit_Feb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Marketo_API_Main_Form_Project_Feb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Marketo API" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/Python/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Marketo_API_Main_Form_Project_Feb.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,7 +203,7 @@
           <ENTRY IS_ENABLED="true" PARSER="runconfig" />
         </ENTRIES>
       </EXTENSION>
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Marketo_API_Main_MSP_Email_Bulk_Feb.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Email/Marketo_API_Main_MSP_Email_Bulk_Feb.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,7 +212,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Marketo_API_Update_Program_Token" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Marketo_API_Update_Email_Variable" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Marketo API" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,7 +234,7 @@
           <ENTRY IS_ENABLED="true" PARSER="runconfig" />
         </ENTRIES>
       </EXTENSION>
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Marketo_API_Update_Program_Token.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Marketo_API_Update_Email_Variable.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,11 +276,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Marketo_API_Main_Email_Create_Update" />
         <item itemvalue="Python.Marketo_API_Main_MSP_Email_Bulk_Feb" />
+        <item itemvalue="Python.Marketo_API_Update_Email_Variable" />
+        <item itemvalue="Python.Marketo_API_Main_Form_Project_Feb" />
         <item itemvalue="Python.Marketo_API_Main_Email_Project_Feb" />
-        <item itemvalue="Python.Marketo_API_Browse_Folder_For_Emails" />
-        <item itemvalue="Python.Marketo_API_Update_Program_Token" />
-        <item itemvalue="Python.Marketo API Get Auth" />
       </list>
     </recent_temporary>
   </component>
@@ -287,6 +295,14 @@
       <option name="presentableId" value="Default" />
       <updated>1581344603080</updated>
     </task>
+    <task id="LOCAL-00001" summary="The following programs were added:&#10;- Clone Smart List&#10;- Create Email&#10;- MSP Email Bulk">
+      <created>1582322414946</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582322414946</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -301,5 +317,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="The following programs were added:&#10;- Clone Smart List&#10;- Create Email&#10;- MSP Email Bulk" />
+    <option name="LAST_COMMIT_MESSAGE" value="The following programs were added:&#10;- Clone Smart List&#10;- Create Email&#10;- MSP Email Bulk" />
   </component>
 </project>

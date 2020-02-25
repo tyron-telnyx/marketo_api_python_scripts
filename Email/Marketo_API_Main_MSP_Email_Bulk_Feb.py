@@ -15,6 +15,7 @@ email_content = [['1699',	'Team Telnyx',	'discover@telnyx.com',	'discover@telnyx
 ['1699',	'Team Telnyx',	'discover@telnyx.com',	'discover@telnyx.com',	'FALSE',	'Thousands of Businesses Use Telnyx ...', 'Email Nurture Pre Sign Up MSP 08'],
 ['1671',	'Team Telnyx',	'discover@telnyx.com',	'discover@telnyx.com',	'FALSE',	'Save Money & Delight Your Customers', 'Email Nurture Pre Sign Up MSP 09']]
 
+
 for i in email_content:
 
     template= i[0]

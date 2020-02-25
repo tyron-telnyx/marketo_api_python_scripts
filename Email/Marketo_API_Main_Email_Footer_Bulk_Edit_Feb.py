@@ -1,9 +1,8 @@
 import re
 
 from Marketo_API_Get_Auth import getToken
-from Marketo_API_Browse_Folder_For_Emails import getEmailbyBrowse
-from Marketo_API_Update_Email_Content import postEmailContent
-from Marketo_API_Approve_Email import postApproveEmail
+from Email.Marketo_API_Browse_Folder_For_Emails import getEmailbyBrowse
+from Email.Marketo_API_Approve_Email import postApproveEmail
 
 token = getToken()
 print(token)

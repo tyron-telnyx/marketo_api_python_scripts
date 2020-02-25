@@ -1,9 +1,9 @@
 import requests
 
-def cloneSmartCampaign (sc_id, cloned_name, folder_id, folder_type, description, token):
+def cloneSmartList (sl_id, cloned_name, folder_id, folder_type, description, token):
 
     authorization = "Bearer " + token
-    url = "https://028-jjw-728.mktorest.com/rest/asset/v1/smartCampaign/" + sc_id + "/clone.json"
+    url = "https://028-jjw-728.mktorest.com/rest/asset/v1/smartList/" + sl_id + "/clone.json"
 
     payload = 'name=' + cloned_name + '&folder={"id":' + folder_id +',"type":' + folder_type +'}&description='+ description
     print(payload)
