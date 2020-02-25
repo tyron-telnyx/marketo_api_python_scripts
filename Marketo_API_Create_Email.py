@@ -16,5 +16,5 @@ def postCreateEmail(template_id, email_name, folder_id, from_name, from_add, rep
 
     print(response.text.encode('utf8'))
 
-    return (response.text.encode('utf8'))
+    return (response.text)
 

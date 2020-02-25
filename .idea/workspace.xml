@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e81a3523-8c9b-4775-88fd-c6bc6a756212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Email/Marketo_API_Main_Email_Variable_Update.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Marketo_API_Main_Email_Create_Update.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Marketo_API_Update_Email_Variable.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Marketo_API_Approve_Email.py" beforeDir="false" afterPath="$PROJECT_DIR$/Email/Marketo_API_Approve_Email.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Marketo_API_Browse_Folder_For_Emails.py" beforeDir="false" afterPath="$PROJECT_DIR$/Email/Marketo_API_Browse_Folder_For_Emails.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Marketo_API_Clone_Email.py" beforeDir="false" afterPath="$PROJECT_DIR$/Email/Marketo_API_Clone_Email.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Marketo_API_Clone_Smart_List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Marketo_API_Clone_Smart_List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Marketo_API_Main_Email_Footer_Bulk_Edit_Feb.py" beforeDir="false" afterPath="$PROJECT_DIR$/Email/Marketo_API_Main_Email_Footer_Bulk_Edit_Feb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Marketo_API_Main_Form_Project_Feb.py" beforeDir="false" afterPath="$PROJECT_DIR$/Marketo_API_Main_Form_Project_Feb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Marketo_API_Main_MSP_Email_Bulk_Feb.py" beforeDir="false" afterPath="$PROJECT_DIR$/Email/Marketo_API_Main_MSP_Email_Bulk_Feb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Marketo_API_Update_Email_Content.py" beforeDir="false" afterPath="$PROJECT_DIR$/Email/Marketo_API_Update_Email_Content.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Marketo_API_Create_Email.py" beforeDir="false" afterPath="$PROJECT_DIR$/Marketo_API_Create_Email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Marketo_API_Main_Email_Create_Update.py" beforeDir="false" afterPath="$PROJECT_DIR$/Marketo_API_Main_Email_Create_Update.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
